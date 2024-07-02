@@ -1,0 +1,23 @@
+header{
+   background-color: rgb(140, 192, 238);
+}
+main{
+    background-color: rgb(14, 83, 143);
+    margin: 1cm;
+}
+body{
+    color: rgb(1, 1, 26);
+}
+h1{
+    text-align: left;
+}
+.autor{
+    font-size: 16px;
+    text-align: right;
+    margin-top: 10px;
+}
+.lema{
+   padding: 32px;
+    font-style: italic;
+    text-align: center;
+}
